@@ -250,8 +250,8 @@
                 landscape presence through custom web development services. The
                 web solutions we develop are feature-rich, highly functional,
                 robust, secure and scalable with engaging UI/UX design that
-                enhances the brand. Hire PHP website developers from Filari,
-                who have years of experience in developing custom websites, web
+                enhances the brand. Hire PHP website developers from Filari, who
+                have years of experience in developing custom websites, web
                 apps, web portals, online eCommerce stores, etc. We have a
                 perfect full-stack development team with experience in Microsoft
                 technologies, PHP core and open-source platforms, UI/UX design,
