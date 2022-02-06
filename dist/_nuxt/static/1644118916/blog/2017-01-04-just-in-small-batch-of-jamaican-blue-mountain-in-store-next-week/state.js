@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1644118916",layout:"default",error:null,serverRendered:true,routePath:"\u002Fblog\u002F2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week",config:{content:{dbHash:"13758e56"}}};
