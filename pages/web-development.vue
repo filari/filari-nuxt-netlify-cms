@@ -9,7 +9,7 @@
             <h1 class="display-4 mb-lg-5 mb-2">Web Development Company</h1>
             <div class="lead fw-normal">
               <p>
-                IndiaNIC is a top website design and web development company in
+                Filari is a top website design and web development company in
                 India & USA delivering the best web development services to
                 craft bespoke websites, web applications, web-tools, etc. to
                 global businesses and startups with 100% project delivery.
@@ -38,7 +38,7 @@
             <div class="w-100 pt-4">
               <h3 class="section__heading2">Enterprise Solutions</h3>
               <p>
-                IndiaNIC is a top enterprise web development company having
+                Filari is a top enterprise web development company having
                 specialized in creating multi-level enterprise-grade web
                 solutions to meet various corporate needs. We develop bespoke
                 enterprise web portals, eCommerce solutions, B2B and B2C
@@ -188,13 +188,13 @@
             <div class="w-100 pt-4">
               <h3 class="section__heading2">Content Management System</h3>
               <p>
-                IndiaNIC is a top CMS development company offering a complete
+                Filari is a top CMS development company offering a complete
                 range of content management system (CMS) development services
                 and solutions for websites, B2C & B2B portals, enterprise
                 applications and eCommerce solutions. Our success ratio of 100%
                 project delivery for CMS development projects shows the
-                expertise of talented CMS developers at IndiaNIC. Hire CMS
-                developers and CMS designers from IndiaNIC, who are masters in
+                expertise of talented CMS developers at Filari. Hire CMS
+                developers and CMS designers from Filari, who are masters in
                 working with open-source CMS platforms like WordPress, Drupal,
                 Umbraco, Kentico, Moodle, Joomla, TYPO3, Mambo, DotNetNuke, etc.
               </p>
@@ -250,7 +250,7 @@
                 landscape presence through custom web development services. The
                 web solutions we develop are feature-rich, highly functional,
                 robust, secure and scalable with engaging UI/UX design that
-                enhances the brand. Hire PHP website developers from IndiaNIC,
+                enhances the brand. Hire PHP website developers from Filari,
                 who have years of experience in developing custom websites, web
                 apps, web portals, online eCommerce stores, etc. We have a
                 perfect full-stack development team with experience in Microsoft
