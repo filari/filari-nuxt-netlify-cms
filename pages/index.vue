@@ -40,7 +40,7 @@
             <li>
               <h3>Discovery</h3>
               <ul>
-                <li>Defining product vision &amp;a strategy</li>
+                <li>Defining product vision &amp; strategy</li>
                 <li>Experience strategy</li>
                 <li>Rapid prototyping</li>
                 <li>Scoping &amp; project roadmap</li>
